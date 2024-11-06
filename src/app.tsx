@@ -1,4 +1,4 @@
-import 'src/global.css';
+import 'src/global-tailwind.css';
 
 import Fab from '@mui/material/Fab';
 

@@ -10,6 +10,17 @@ export type ConfigValue = {
 // ----------------------------------------------------------------------
 
 export const CONFIG: ConfigValue = {
-  appName: 'Minimal UI',
+  appName: 'BlockHaven',
   appVersion: packageJson.version,
 };
+
+// ----------------------------------------------------------------------
+
+export const USER = {
+  name: 'Ken Kong',
+};
+
+// ----------------------------------------------------------------------
+
+export const API_ENDPOINT = 'https://api.binance.com';
+export const API_KEY = '';
